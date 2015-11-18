@@ -1,0 +1,9 @@
+# Ignore build dir
+/build/**/*
+
+# Ignore files dir
+/files/**/*
+
+# Not ignore .gitkeep files
+!.gitkeep
+
